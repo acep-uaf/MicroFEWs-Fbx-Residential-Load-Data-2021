@@ -1,4 +1,4 @@
-# ACEP-Residential-Load-Data
+# Residential-Load-Dataet
 ## MicroFEWs project
 
 The MicroFEWs project aims to improve food-energy-water system dynamics in the small cold region communities. One of the aspects of the project is to acquire and monitor data that is necessary to understand and characterize existing food-energy-water nexus in remote communities. For this reason, the power and energy flow around existing food, energy, and water infrastructure loads are metered and logged.
